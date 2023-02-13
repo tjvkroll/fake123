@@ -2,4 +2,4 @@
 
 using namespace std;
 
-main() { cout << "hey" << endl; }
+void main() { cout << "hey" << endl; }
